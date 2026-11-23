@@ -41,9 +41,9 @@ reservation-request and contact forms, accessible mobile-friendly layout.
 
 CONTACT INFORMATION
 Phone (tap to dial): +256706271480
-WhatsApp (tap to chat): https://wa.me/256706271480
-Email (tap to compose): nakitendezurah05@gmail.com
+WhatsApp (tap to chat): https://wa.me/256732212999
+Email (tap to compose): kalungierick9@gmail.com
 Note: tel: opens the device dialer, not the call history screen.
 
 WHATSAPP FOOD ORDERS
-Every menu card now has an Order on WhatsApp link that opens a prefilled message to +256706271480. The selected dish and listed price are included. The visitor must press Send in WhatsApp. This is an order enquiry, not payment, checkout, or automatic order confirmation. Test on a phone with WhatsApp.
+Every menu card now has an Order on WhatsApp link that opens a prefilled message to +256732212999. The selected dish and listed price are included. The visitor must press Send in WhatsApp. This is an order enquiry, not payment, checkout, or automatic order confirmation. Test on a phone with WhatsApp.
