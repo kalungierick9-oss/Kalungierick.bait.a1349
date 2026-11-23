@@ -40,7 +40,7 @@ Functionality: responsive navigation, interactive menu category filters,
 reservation-request and contact forms, accessible mobile-friendly layout.
 
 CONTACT INFORMATION
-Phone (tap to dial): +256706271480
+Phone (tap to dial): +256732212999
 WhatsApp (tap to chat): https://wa.me/256732212999
 Email (tap to compose): kalungierick9@gmail.com
 Note: tel: opens the device dialer, not the call history screen.
